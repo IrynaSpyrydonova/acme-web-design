@@ -1,6 +1,6 @@
 # Development Strategy
 
-> `name-of-project`
+> `Acme Web Design`
 
 write a short description of your project:
 - who would want to use it?
@@ -10,7 +10,7 @@ write a short description of your project:
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](Wireframe.png)
 
 ## 0. Set-Up
 
@@ -22,32 +22,155 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. __
+## 1. User Story: HTML structure
 
-__full user story description__
+### Branches
 
-### Repo
-
-what branch(es) did you work on?
+1. This user story was developed on a brach called `home-page-structure`
+2. It was merged to `master` when the feature was finished.
 
 ### HTML
 
-what did you change in the HTML and why?
+- A header element with a title describing the web page
+- A nav element with set of navigation links
+- A section elements with main text
+- A section element with form for subscriptions 
+- A section with images for HTML CSS and JS
+- A footer element
 
 ### CSS
 
-what did you change in the CSS and why?
+There is no any css styling so far 
 
-## 2. ...
 
-...
+## 2. User Story: Header and navigation menu
 
-...
+### Branches
 
-## Finishing Touches
+1. This user story was developed on a brach called `header`
+2. It was merged to `master` when the feature was finished.
 
-- Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-- Validate code to check for any last mistakes
+
+### CSS
+ - General styling the body of the webpage 
+ - Styling the branding `Acme Web Design`
+ - Styling the navigation links: `Home`, `About`, `Services`
+
+
+## 3. User Story: Showcase section
+
+### Branches
+
+1. This user story was developed on a brach called `showcase`
+2. It was merged to `master` when the feature was finished.
+
+
+### CSS
+ 
+ - Styling the  `showcase` section
+ - Applying the background picture
+
+
+## 4. User Story: Newsletter section
+
+### Branches
+
+1. This user story was developed on a brach called `newsletter`
+2. It was merged to `master` when the feature was finished.
+
+
+### CSS
+ 
+ - Styling the  `newsletter` section
+ - Styling `form`, `button`, `input`
+
+
+## 5. User Story: Boxes section
+
+### Branches
+
+1. This user story was developed on a brach called `boxes`
+2. It was merged to `master` when the feature was finished.
+
+
+### CSS
+ 
+ - Styling the  `boxes` section 
+
+
+## 5. User Story: Footer
+
+### Branches
+
+1. This user story was developed on a brach called `footer`
+2. It was merged to `master` when the feature was finished.
+
+
+### CSS
+ 
+ - Styling the  `footer` 
+
+
+## 6. User Story: ABOUT HTML structure
+
+### Branches
+
+1. This user story was developed on a brach called `about_structure`
+2. It was merged to `master` when the feature was finished.
+
+### HTML
+
+- A section element with main text `About us`
+- An aside element with text `What We Do`
+
+
+### CSS
+
+There is no additional css styling for About page so far
+
+
+## 7. User Story: ABOUT styling
+
+### Branches
+
+1. This user story was developed on a brach called `about_article_services`
+2. It was merged to `master` when the feature was finished.
+
+## HTML
+
+- Applying the dark class for `aside` and `paragraph`
+
+### CSS
+
+- Styling the  `article id="main-col"`  
+- Styling the aside element
+
+## 8. User Story: SERVICES structure
+
+### Branches
+
+1. This user story was developed on a brach called `services_structure`
+2. It was merged to `master` when the feature was finished.
+
+### HTML
+
+- A section element with main text `About us`
+- An aside element with text `What We Do`
+
+
+### CSS
+
+There is no additional css styling for Services page 
+
+## 9. User Story: Media Queries
+
+### Branches
+
+1. This user story was developed on a brach called `media_queries`
+2. It was merged to `master` when the feature was finished.
+
+### CSS
+
+- Apply media queries for  displays `max-width : 768px`
+
+
