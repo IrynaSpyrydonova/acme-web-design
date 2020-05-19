@@ -133,7 +133,7 @@ There is no additional css styling for About page so far
 
 ### Branches
 
-1. This user story was developed on a brach called `about_article_services`
+1. This user story was developed on a brach called `about_article_aside`
 2. It was merged to `master` when the feature was finished.
 
 ## HTML
