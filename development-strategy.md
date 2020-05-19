@@ -160,7 +160,7 @@ There is no additional css styling for About page so far
 
 ### CSS
 
-There is no additional css styling for Services page 
+- Styling the `services`
 
 ## 9. User Story: Media Queries
 
